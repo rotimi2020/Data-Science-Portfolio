@@ -1,15 +1,15 @@
 # Data-Science-Project
 
-  Ionosphere-prediction<br>
-  Download dataset : https://github.com/rotimi2020/Ionosphere-prediction/blob/main/Ionosphere.csv<br>
-  https://github.com/rotimi2020/Ionosphere-prediction
+## Ionosphere-prediction
+  [Download dataset](https://github.com/rotimi2020/Ionosphere-prediction/blob/main/Ionosphere.csv)<br>
+  [Jupyter Notebook](https://github.com/rotimi2020/Ionosphere-prediction)
   
-  Boston-Prediction<br>
-  Download file : https://github.com/rotimi2020/Boston-Prediction/blob/main/Boston.csv<br>
-  https://github.com/rotimi2020/Boston-Prediction
+## Boston-Prediction
+  [Download file](https://github.com/rotimi2020/Boston-Prediction/blob/main/Boston.csv)<br>
+  [Jupyter Notebook](https://github.com/rotimi2020/Boston-Prediction)
  
-  Advanced-Price<br>
-  https://github.com/rotimi2020/Advanced-Price
+## Advanced-Price<br>
+  [Jupyter Notebook](https://github.com/rotimi2020/Advanced-Price)
   
-  Sonar-prediction<br>
-  https://github.com/rotimi2020/Sonar-prediction
+## Sonar-prediction<br>
+  [Jupyter Notebook](https://github.com/rotimi2020/Sonar-prediction)

@@ -40,7 +40,40 @@
   [Jupyter Notebook](https://github.com/rotimi2020/Ionosphere-prediction)
   
 ## Boston-Prediction
-  [Dataset](https://github.com/rotimi2020/Boston-Prediction/blob/main/Boston.csv)<br>
+  Title: Boston Housing Data
+Title: Boston Housing Data
+
+Sources: (a) Origin: This dataset was taken from the StatLib library which is maintained at Carnegie Mellon University. (b) Creator: Harrison, D. and Rubinfeld, D.L. 'Hedonic prices and the demand for clean air', J. Environ. Economics & Management, vol.5, 81-102, 1978. (c) Date: July 7, 1993
+
+Download file : https://github.com/rotimi2020/Boston-Prediction/blob/main/Boston.csv
+
+Relevant Information:
+
+Concerns housing values in suburbs of Boston.
+
+Number of Instances: 506
+
+Number of Attributes: 13 continuous attributes (including "class" attribute "MEDV"), 1 binary-valued attribute.
+
+Attribute Information:
+
+CRIM: capita crime rate by town
+ZN: proportion of residential land zoned for lots over 25,000 sq.ft.
+INDUS: proportion of non-retail business acres per town
+CHAS: Charles River dummy variable (1 if tract bounds river; 0 otherwise)
+NOX: nitric oxides concentration (parts per 10 million) [parts/10M]
+RM: average number of rooms per dwelling
+AGE: proportion of owner-occupied units built prior to 1940
+DIS: weighted distances to five Boston employment centres
+RAD: index of accessibility to radial highways
+TAX: full-value property-tax rate per /10k]
+PTRATIO: pupil-teacher ratio by town
+B: The result of the equation B=1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town
+LSTAT: % lower status of the population
+MEDV: Median value of owner-occupied homes in ]
+Missing Attribute Values: None.<br>
+
+  [Download Dataset](https://github.com/rotimi2020/Boston-Prediction/blob/main/Boston.csv)<br>
   [Jupyter Notebook](https://github.com/rotimi2020/Boston-Prediction)
  
 ## Advanced-Price<br>

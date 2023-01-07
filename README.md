@@ -14,3 +14,6 @@
     * [Source Code](https://github.com/rotimi2020/Advanced-Price)
 * **Sonar-prediction :**  predict whether an object is either Rock or Mine with SONAR Data
     * [Source Code](https://github.com/rotimi2020/Sonar-prediction)
+* **Churn Disease :** This dataset involves predicting whether a patients is  set to 0 for healthy<br> and 1 for PD(Parkison disease) :
+    * [Source Code](https://github.com/rotimi2020/churn_data/blob/main/bigml_pycaret-complete.ipynb)
+    * [Download Dataset](https://github.com/rotimi2020/churn_data/blob/main/bigml.csv)

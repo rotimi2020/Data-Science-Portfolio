@@ -32,3 +32,6 @@
 * **Insurance prediction :** This dataset involves predicting of the charges of insurance based on information given by the people :
     * [Source Code](https://github.com/rotimi2020/Insurance-prediction/blob/main/insure-pycaret.ipynb)
     * [Download Dataset](https://github.com/rotimi2020/Insurance-prediction/blob/main/insurance.csv)
+* **Lung cancer prediction :** This dataset involves predicting a patients with lung cancer :
+    * [Source Code](https://github.com/rotimi2020/lung-cancer-prediction/blob/main/survey_lung_pycaret-complete.ipynb)
+    * [Download Dataset](https://github.com/rotimi2020/lung-cancer-prediction/blob/main/survey%20_lung_cancer.csv)

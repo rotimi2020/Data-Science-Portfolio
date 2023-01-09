@@ -38,3 +38,6 @@
 * **Mice Clustering :** This dataset involves using clustering in mice protein :
     * [Source Code](https://github.com/rotimi2020/mice-clustering/blob/main/Mice_pycaret.ipynb)
     * [Download Dataset](https://github.com/rotimi2020/mice-clustering/blob/main/mice.csv)
+* **Spam Ham NLP :** This dataset involves predicting which message is spam or ham :
+    * [Source Code](https://github.com/rotimi2020/spam-ham-NLP/blob/main/spam.ipynb)
+    * [Download Dataset](https://github.com/rotimi2020/spam-ham-NLP/blob/main/spam.csv)

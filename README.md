@@ -35,3 +35,6 @@
 * **Lung cancer prediction :** This dataset involves predicting a patients with lung cancer :
     * [Source Code](https://github.com/rotimi2020/lung-cancer-prediction/blob/main/survey_lung_pycaret-complete.ipynb)
     * [Download Dataset](https://github.com/rotimi2020/lung-cancer-prediction/blob/main/survey%20_lung_cancer.csv)
+* **Mice Clustering :** This dataset involves using clustering in mice protein :
+    * [Source Code](https://github.com/rotimi2020/mice-clustering/blob/main/Mice_pycaret.ipynb)
+    * [Download Dataset](https://github.com/rotimi2020/mice-clustering/blob/main/mice.csv)

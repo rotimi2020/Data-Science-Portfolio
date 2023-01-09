@@ -14,7 +14,7 @@
     * [Source Code](https://github.com/rotimi2020/Advanced-Price)
 * **Sonar-prediction :**  predict whether an object is either Rock or Mine with SONAR Data
     * [Source Code](https://github.com/rotimi2020/Sonar-prediction)
-* **Churn Disease :** This dataset involves predicting whether a patients is  set to 0 for healthy<br> and 1 for PD(Parkison disease) :
+* **Parkinson Disease :** This dataset involves predicting whether a patients is  set to 0 for healthy<br> and 1 for PD(Parkison disease) :
     * [Source Code](https://github.com/rotimi2020/churn_data/blob/main/bigml_pycaret-complete.ipynb)
     * [Download Dataset](https://github.com/rotimi2020/churn_data/blob/main/bigml.csv)
 * **Customer Churn Prediction :** This dataset involves predicting whether a customer churn or not :
@@ -32,7 +32,7 @@
 * **Insurance prediction :** This dataset involves predicting of the charges of insurance based on information given by the people :
     * [Source Code](https://github.com/rotimi2020/Insurance-prediction/blob/main/insure-pycaret.ipynb)
     * [Download Dataset](https://github.com/rotimi2020/Insurance-prediction/blob/main/insurance.csv)
-* **Lung cancer prediction :** This dataset involves predicting a patients with lung cancer :
+* **Lung cancer Detection :** This dataset involves predicting a patients with lung cancer :
     * [Source Code](https://github.com/rotimi2020/lung-cancer-prediction/blob/main/survey_lung_pycaret-complete.ipynb)
     * [Download Dataset](https://github.com/rotimi2020/lung-cancer-prediction/blob/main/survey%20_lung_cancer.csv)
 * **Mice Clustering :** This dataset involves using clustering in mice protein :
@@ -41,3 +41,6 @@
 * **Spam Ham NLP :** This dataset involves predicting which message is spam or ham :
     * [Source Code](https://github.com/rotimi2020/spam-ham-NLP/blob/main/spam.ipynb)
     * [Download Dataset](https://github.com/rotimi2020/spam-ham-NLP/blob/main/spam.csv)
+* **Stroke Detection :** This dataset involves predicting which patients has stroke disease :
+    * [Source Code](https://github.com/rotimi2020/stroke-prediction/blob/main/stroke-complete.ipynb)
+    * [Download Dataset](https://github.com/rotimi2020/stroke-prediction/blob/main/stroke.csv)

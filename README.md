@@ -26,3 +26,6 @@
 * **Credit card Default Prediction :** This dataset involves predicting which customers are most probable to default :
     * [Source Code](https://github.com/rotimi2020/credit-card-anomaly/blob/main/credit_anomaly_pycaret.ipynb)
     * [Download Dataset](https://raw.githubusercontent.com/rotimi2020/credit-card-anomaly/main/credit.csv) 
+* **Employee Attrition prediction :** This dataset involves predicting an employees that leave the organisation :
+    * [Source Code](https://github.com/rotimi2020/Employee-Attrition-prediction/blob/main/employee-pycaret.ipynb)
+    * [Download Dataset](https://github.com/rotimi2020/Employee-Attrition-prediction/blob/main/employee.csv)

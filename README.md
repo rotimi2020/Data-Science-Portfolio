@@ -23,3 +23,6 @@
 * **Credit card anomaly Prediction :** This dataset involves anomaly by using credit card default dataset :
     * [Source Code](https://github.com/rotimi2020/credit-card-anomaly/blob/main/credit_anomaly_pycaret.ipynb)
     * [Download Dataset](https://raw.githubusercontent.com/rotimi2020/credit-card-anomaly/main/credit.csv)    
+* **Credit card Default Prediction :** This dataset involves predicting which customers are most probable to default :
+    * [Source Code](https://github.com/rotimi2020/credit-card-anomaly/blob/main/credit_anomaly_pycaret.ipynb)
+    * [Download Dataset](https://raw.githubusercontent.com/rotimi2020/credit-card-anomaly/main/credit.csv) 

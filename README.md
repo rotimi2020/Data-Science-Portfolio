@@ -17,3 +17,7 @@
 * **Churn Disease :** This dataset involves predicting whether a patients is  set to 0 for healthy<br> and 1 for PD(Parkison disease) :
     * [Source Code](https://github.com/rotimi2020/churn_data/blob/main/bigml_pycaret-complete.ipynb)
     * [Download Dataset](https://github.com/rotimi2020/churn_data/blob/main/bigml.csv)
+* **Churn Prediction :** This dataset involves predicting whether a customer churn or not :
+    * [Source Code](https://github.com/rotimi2020/Customer-churn-prediction/blob/main/bigml_pycaret-complete.ipynb)
+    * [Download Dataset](https://github.com/rotimi2020/Customer-churn-prediction/blob/main/churn.csv) 
+   

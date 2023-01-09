@@ -29,3 +29,6 @@
 * **Employee Attrition prediction :** This dataset involves predicting an employees that leave the organisation :
     * [Source Code](https://github.com/rotimi2020/Employee-Attrition-prediction/blob/main/employee-pycaret.ipynb)
     * [Download Dataset](https://github.com/rotimi2020/Employee-Attrition-prediction/blob/main/employee.csv)
+* **Insurance prediction :** This dataset involves predicting of the charges of insurance based on information given by the people :
+    * [Source Code](https://github.com/rotimi2020/Insurance-prediction/blob/main/insure-pycaret.ipynb)
+    * [Download Dataset](https://github.com/rotimi2020/Insurance-prediction/blob/main/insurance.csv)

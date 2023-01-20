@@ -1,7 +1,7 @@
 # Data-Science-Project
 
 ### Machine Learning
-* **Parkinson Disease :** This dataset involves predicting whether a patients is  set to 0 for healthy<br> and 1 for PD(Parkison disease) :
+* **Parkinson Disease (scikit-learn):** This dataset involves predicting whether a patients is  set to 0 for healthy<br> and 1 for PD(Parkison disease) :
     * [Source Code](https://github.com/rotimi2020/Parkinson_Disease)
     * [Download Dataset](https://github.com/rotimi2020/Parkinson_Disease/blob/main/Parkinson_disease.csv)
 * **Ionosphere :** This dataset involves predicting whether a structure is in the atmosphere<br> or not given radar returns using machine learning :
